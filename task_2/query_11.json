@@ -1,0 +1,146 @@
+[
+  {
+    "_id": 2010,
+    "max_salary": 198187,
+    "min_salary": 23407,
+    "avg_salary": 126701.57575757576
+  },
+  {
+    "_id": 2009,
+    "max_salary": 168748,
+    "min_salary": 37746,
+    "avg_salary": 126377.53846153847
+  },
+  {
+    "_id": 2001,
+    "max_salary": 194190,
+    "min_salary": 41756,
+    "avg_salary": 126266.1
+  },
+  {
+    "_id": 2005,
+    "max_salary": 198532,
+    "min_salary": 58648,
+    "avg_salary": 126160.13043478261
+  },
+  {
+    "_id": 2006,
+    "max_salary": 189987,
+    "min_salary": 30133,
+    "avg_salary": 124293.36842105263
+  },
+  {
+    "_id": 2015,
+    "max_salary": 199098,
+    "min_salary": 22687,
+    "avg_salary": 121250.88235294117
+  },
+  {
+    "_id": 2007,
+    "max_salary": 199969,
+    "min_salary": 21423,
+    "avg_salary": 120823.7
+  },
+  {
+    "_id": 2022,
+    "max_salary": 195259,
+    "min_salary": 28877,
+    "avg_salary": 116921.80769230769
+  },
+  {
+    "_id": 2008,
+    "max_salary": 195898,
+    "min_salary": 22587,
+    "avg_salary": 115912.92
+  },
+  {
+    "_id": 2000,
+    "max_salary": 194277,
+    "min_salary": 22497,
+    "avg_salary": 115583.60606060606
+  },
+  {
+    "_id": 2011,
+    "max_salary": 194201,
+    "min_salary": 33301,
+    "avg_salary": 113937.4
+  },
+  {
+    "_id": 1999,
+    "max_salary": 189343,
+    "min_salary": 24426,
+    "avg_salary": 113850.8
+  },
+  {
+    "_id": 2020,
+    "max_salary": 189241,
+    "min_salary": 31658,
+    "avg_salary": 112011.33333333333
+  },
+  {
+    "_id": 2018,
+    "max_salary": 197291,
+    "min_salary": 50944,
+    "avg_salary": 111348.65
+  },
+  {
+    "_id": 2017,
+    "max_salary": 196555,
+    "min_salary": 29441,
+    "avg_salary": 110011.35714285714
+  },
+  {
+    "_id": 2013,
+    "max_salary": 186127,
+    "min_salary": 29412,
+    "avg_salary": 109868.77777777778
+  },
+  {
+    "_id": 2014,
+    "max_salary": 190934,
+    "min_salary": 42279,
+    "avg_salary": 107566.4
+  },
+  {
+    "_id": 2021,
+    "max_salary": 196604,
+    "min_salary": 26120,
+    "avg_salary": 107404.04
+  },
+  {
+    "_id": 2012,
+    "max_salary": 196471,
+    "min_salary": 20597,
+    "avg_salary": 103817.8
+  },
+  {
+    "_id": 2016,
+    "max_salary": 195267,
+    "min_salary": 29517,
+    "avg_salary": 103692.1
+  },
+  {
+    "_id": 2002,
+    "max_salary": 174716,
+    "min_salary": 25217,
+    "avg_salary": 100831.66666666667
+  },
+  {
+    "_id": 2019,
+    "max_salary": 194211,
+    "min_salary": 31992,
+    "avg_salary": 97398.60714285714
+  },
+  {
+    "_id": 2004,
+    "max_salary": 178342,
+    "min_salary": 21115,
+    "avg_salary": 96820.92
+  },
+  {
+    "_id": 2003,
+    "max_salary": 179407,
+    "min_salary": 25298,
+    "avg_salary": 91809.9
+  }
+]
